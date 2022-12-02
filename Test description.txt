@@ -1,0 +1,8 @@
+The goal here is to show you a piece of code that is used at smart (albeit in a mildly broken state), 
+and give interviewers and interviewee a common codebase to use as a jumping off point for further discussion.
+Review the following terraform module, with an eye to being able to discuss how it works, 
+fixes or improvements you would bring to it. 
+The examples subfolder shows two ways this module can be used.
+This can be run in an AWS account you have access to.  
+While being able to run terraform plan against the the examples allows for more interactive exploring 
+during the interview, but is not required.
